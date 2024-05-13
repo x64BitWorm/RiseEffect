@@ -1,0 +1,8 @@
+{
+  "profiles": {
+    "RiseEffect": {
+      "commandName": "Project",
+      "commandLineArgs": "F:\\Projects\\VisualStudio\\RiseEffect\\Samples\\5.mp4"
+    }
+  }
+}
